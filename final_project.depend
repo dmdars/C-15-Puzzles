@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1526952226 source:h:\kuliah\daskom\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"userlib.h"
+
+1526920805 source:h:\kuliah\daskom\final_project\help.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
+1526947082 source:h:\kuliah\daskom\final_project\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
+1526660355 h:\kuliah\daskom\final_project\help.c
+	<stdio.h>
+	<stdlib.h>
+
+1526660455 h:\kuliah\daskom\final_project\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1526950705 h:\kuliah\daskom\final_project\userlib.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1526954791 source:h:\kuliah\daskom\final_project\regis.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
+1526954876 source:h:\kuliah\daskom\final_project\game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"userlib.h"
+
+1544419873 source:h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"userlib.h"
+
+1544419873 h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\userlib.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1544420029 source:h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\help.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
+1544420029 source:h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1544419873 source:h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\regis.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
+1544420029 source:h:\kuliah\daskom\dakhilullah muhazzib darwisy _1706019904_final project\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"userlib.h"
+
